@@ -51,6 +51,7 @@
 		width: 1190px;
 		background: white;
 		margin-top: 10px;
+
 	}
 	#left{
 		float: left;
@@ -175,6 +176,7 @@
 		width:345px ;
 		margin: 0px;
 		/*background: #ace0de;*/
+		/*dd*/
 		background: url(./images/yhdl.jpg);
 	}
 	#login p{
